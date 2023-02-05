@@ -8,6 +8,16 @@ If you're here, you've probably stumbled on one of my open-source projects and m
 Not to worry, I have [a link for that, too](https://documentation.simonc.eu)!
 It's not the prettiest portion of my website, but I'll get to that eventually. At least it's permanent darkmode.
 
+<div align="center" style="text-align:center">
+    <a href="#">
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SimonCahill&show_icons=true&theme=flag-india&bg_color=0000&count_private=true&hide_border=true">
+    </a>
+    <a href="#">
+        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonCahill&theme=flag-india&background=0000&hide_border=true"
+        >
+    </a>
+</div>
+
 ## My Tech Stack
 
 ### Technology I use
