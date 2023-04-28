@@ -20,15 +20,16 @@ It's not the prettiest portion of my website, but I'll get to that eventually. A
 
 ## My Tech Stack
 
-### Technology I use
-I'm a firm believer of "use whatever suits you and what you like", as such the list of tech I use (on a daily basis) is quite varied.
-
 #### My Main Machines
 My main machines which I use for everyday tasks, like gaming, developing and just general gits and shiggles are in no particular order:
 
  - M1 Pro MacBook Pro (16")
  - Custom-Built Gaming PC running Windows (+ WSL) / Linux
- - \<Enter top-of-the-line Android smartphone model here>
+    - Ryzen 7 7700X
+    - RTX 3070 10GiB
+    - 32GiB DDR5 5600
+    - MSI X670E MPG Carbon
+ - Xiaomi Mi 11T Pro
 
 #### My Favourite Languages
 I develop software for a living and as a hobby, and have done so for over a decade now.
