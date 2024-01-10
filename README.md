@@ -30,7 +30,7 @@ My main machines which I use for everyday tasks, like gaming, developing and jus
     - RTX 3080 10GiB
     - 32GiB DDR5 5600
     - MSI X670E MPG Carbon
- - Xiaomi Mi 11T Pro
+ - Xiaomi Mi 13 Pro
 
 #### My Favourite Languages
 I develop software for a living and as a hobby, and have done so for over a decade now.
