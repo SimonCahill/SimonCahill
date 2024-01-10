@@ -18,7 +18,7 @@ It's not the prettiest portion of my website, but I'll get to that eventually. A
         <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonCahill&theme=radical&background=0000&hide_border=false" >
     </a>
     <a href="#" >
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonCahill&show_icons=true&theme=radical&bg_color=0000&hide_border=false" >
+        <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonCahill&show_icons=true&theme=radical&bg_color=0000&hide_border=false&layout=donut-vertical" >
     </a>
 </div>
 
