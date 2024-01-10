@@ -12,13 +12,10 @@ It's not the prettiest portion of my website, but I'll get to that eventually. A
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="33%" src="https://github-readme-stats.vercel.app/api?username=SimonCahill&show_icons=true&theme=radical&bg_color=0000&count_private=true&hide_border=false" >
-    </a>
-    <a href="#">
-        <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonCahill&theme=radical&background=0000&hide_border=false" >
+        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SimonCahill&show_icons=true&theme=radical&bg_color=0000&count_private=true&hide_border=false" >
     </a>
     <a href="#" >
-        <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonCahill&show_icons=true&theme=radical&bg_color=0000&hide_border=false&layout=donut" >
+        <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonCahill&show_icons=true&theme=radical&bg_color=0000&hide_border=false&layout=donut" >
     </a>
 </div>
 
