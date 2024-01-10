@@ -1,6 +1,8 @@
 ## Welcome to my Corner of GitHub
-My name's Simon and I'm an embedded software developer by profession.
-I develop software for telematics units for off-highway machinery and have the occasional side-project which I do in my free time.
+My name's Simon and I'm an embedded software developer by profession, [I also own a small business located in Germany](https://procyon-systems.de).
+
+During my dayjob, I develop telematics and diagnostics software using ISOBUS for a German agricultural machinery manufacturer.  
+My small business develops smaller-scale applications for multiple platforms, hosts web applications, email and gameservers, along with providing IT services and custom PC-building services.
 
 I also have an [Internet presence](https://www.simonc.eu) where I will occasionally write a little blog post, tutorial or something similar and then delete it because I didn't like it after a few weeks!.
 
@@ -10,11 +12,13 @@ It's not the prettiest portion of my website, but I'll get to that eventually. A
 
 <div align="center" style="text-align:center">
     <a href="#">
-        <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SimonCahill&show_icons=true&theme=flag-india&bg_color=0000&count_private=true&hide_border=true">
+        <img width="33%" src="https://github-readme-stats.vercel.app/api?username=SimonCahill&show_icons=true&theme=radical&bg_color=0000&count_private=true&hide_border=false" >
     </a>
     <a href="#">
-        <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonCahill&theme=flag-india&background=0000&hide_border=true"
-        >
+        <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=SimonCahill&theme=radical&background=0000&hide_border=false" >
+    </a>
+    <a href="#" >
+        <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimonCahill&show_icons=true&theme=radical&bg_color=0000&hide_border=false" >
     </a>
 </div>
 
