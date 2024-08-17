@@ -4,8 +4,6 @@ My name's Simon and I'm an embedded software developer by profession, [I also ow
 During my dayjob, I develop telematics and diagnostics software using ISOBUS for a German agricultural machinery manufacturer.  
 My small business develops smaller-scale applications for multiple platforms, hosts web applications, email and gameservers, along with providing IT services and custom PC-building services.
 
-I also have an [Internet presence](https://www.simonc.eu) where I will occasionally write a little blog post, tutorial or something similar and then delete it because I didn't like it after a few weeks!.
-
 If you're here, you've probably stumbled on one of my open-source projects and might be looking for documentation.
 Not to worry, I have [a link for that, too](https://documentation.simonc.eu)!
 It's not the prettiest portion of my website, but I'll get to that eventually. At least it's permanent darkmode.
@@ -27,8 +25,8 @@ My main machines which I use for everyday tasks, like gaming, developing and jus
  - M1 Pro MacBook Pro (16")
  - Custom-Built Gaming PC running Windows (+ WSL) / Linux
     - Ryzen 7 7700X
+    - 64GiB DDR5-5600 CL22
     - RTX 3080 10GiB
-    - 32GiB DDR5 5600
     - MSI X670E MPG Carbon
  - Xiaomi Mi 13 Pro
 
@@ -42,7 +40,6 @@ Here's a list of my favourites (in no particular order)!
  - C#
  - Lua
  - Bash
- - Swift
 
 #### Languages I won't touch with a 50ft pole if I don't have to
 As with all things in life, some languages just don't fit a given person's personality.
