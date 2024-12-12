@@ -1,8 +1,8 @@
 ## Welcome to my Corner of GitHub
 My name's Simon and I'm an embedded software developer by profession, [I also own a small business located in Germany](https://procyon-systems.de).
 
-During my dayjob, I develop telematics and diagnostics software using ISOBUS for a German agricultural machinery manufacturer.  
-My small business develops smaller-scale applications for multiple platforms, hosts web applications, email and gameservers, along with providing IT services and custom PC-building services.
+My small business develops smaller-scale applications for multiple platforms, hosts web applications, email and gameservers, along with providing IT services and custom PC-building services.  
+My clients include agri-tech companies, automotive suppliers and other small businesses.
 
 If you're here, you've probably stumbled on one of my open-source projects and might be looking for documentation.
 Not to worry, I have [a link for that, too](https://documentation.simonc.eu)!
