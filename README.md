@@ -24,7 +24,7 @@ My main machines which I use for everyday tasks, like gaming, developing and jus
 
  - M1 Pro MacBook Pro (16")
  - Custom-Built Gaming PC running Windows (+ WSL) / Linux
-    - Ryzen 7 7700X
+    - Ryzen 7 7950X
     - 64GiB DDR5-5600 CL22
     - RTX 3080 10GiB
     - MSI X670E MPG Carbon
