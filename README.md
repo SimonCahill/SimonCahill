@@ -26,7 +26,7 @@ My main machines which I use for everyday tasks, like gaming, developing and jus
  - Custom-Built Gaming PC running Windows (+ WSL) / Linux
     - Ryzen 7 7950X
     - 64GiB DDR5-5600 CL22
-    - RTX 3080 10GiB
+    - RTX 5080 16GiB
     - MSI X670E MPG Carbon
  - Xiaomi Mi 13 Pro
 
