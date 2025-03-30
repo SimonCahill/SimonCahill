@@ -1,5 +1,7 @@
 ## Welcome to my Corner of GitHub
-My name's Simon and I'm an embedded software developer by profession, [I also own a small business located in Germany](https://procyon-systems.de).
+My name's Simon and I'm a dad, husband, and an embedded software developer by profession, [I own a small business located in Germany](https://procyon-systems.de).  
+Although I'm based and live in Germany, you may have guessed by my name, that I'm not "from" here.  
+Well you're almost correct; I grew up in England and speak both languages fluently.
 
 My small business develops smaller-scale applications for multiple platforms, hosts web applications, email and gameservers, along with providing IT services and custom PC-building services.  
 My clients include agri-tech companies, automotive suppliers and other small businesses.
